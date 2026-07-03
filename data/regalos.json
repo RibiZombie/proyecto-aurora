@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Primer regalo",
+    "tipo": "mensaje",
+    "contenido": "Gracias por tu amor incondicional, por cuidar de todos y por estar incluso cuando nadie lo veía.",
+    "imagen": "imagenes/galeria/foto-5.jpg"
+  },
+  {
+    "titulo": "Segundo regalo",
+    "tipo": "recuerdo",
+    "contenido": "Este recuerdo vive para siempre en mi corazón, porque habla de familia, ternura y unión.",
+    "imagen": "imagenes/galeria/foto-6.jpg"
+  },
+  {
+    "titulo": "Tercer regalo",
+    "tipo": "promesa",
+    "contenido": "Prometo valorar cada consejo, cada sacrificio y cada enseñanza que me regalaste.",
+    "imagen": "imagenes/galeria/foto-7.jpg"
+  },
+  {
+    "titulo": "Cuarto regalo",
+    "tipo": "abrazo",
+    "contenido": "Este abrazo digital guarda todo lo que a veces no sé decir con palabras.",
+    "imagen": "imagenes/galeria/foto-8.jpg"
+  },
+  {
+    "titulo": "Quinto regalo",
+    "tipo": "amor",
+    "contenido": "Sos y siempre vas a ser la mujer más especial de mi vida. Feliz cumpleaños, Ma.",
+    "imagen": "imagenes/galeria/foto-9.jpg"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "src": "imagenes/galeria/foto-1.jpg",
+    "titulo": "Un recuerdo especial",
+    "mensaje": "Gracias por cada momento compartido."
+  },
+  {
+    "src": "imagenes/galeria/foto-2.jpg",
+    "titulo": "Familia",
+    "mensaje": "Nuestra historia está llena de amor."
+  },
+  {
+    "src": "imagenes/galeria/foto-3.jpg",
+    "titulo": "Sonrisas que abrazan",
+    "mensaje": "Hay momentos que siguen iluminando el corazón."
+  },
+  {
+    "src": "imagenes/galeria/foto-4.jpg",
+    "titulo": "Siempre juntos",
+    "mensaje": "Lo más valioso siempre fue estar cerca."
+  },
+  {
+    "src": "imagenes/galeria/foto-5.jpg",
+    "titulo": "Un abrazo para Ma",
+    "mensaje": "Hay abrazos que dicen más que mil palabras."
+  },
+  {
+    "src": "imagenes/galeria/foto-6.jpg",
+    "titulo": "Ternura de familia",
+    "mensaje": "Cada recuerdo guarda un pedacito de amor."
+  },
+  {
+    "src": "imagenes/galeria/foto-7.jpg",
+    "titulo": "Momentos únicos",
+    "mensaje": "La vida se vuelve más bonita cuando la compartimos."
+  },
+  {
+    "src": "imagenes/galeria/foto-8.jpg",
+    "titulo": "Nuestro tesoro",
+    "mensaje": "La familia es el regalo que siempre vuelve al corazón."
+  },
+  {
+    "src": "imagenes/galeria/foto-9.jpg",
+    "titulo": "Feliz cumpleaños",
+    "mensaje": "Que este día quede guardado como una luz hermosa."
+  }
+]
